@@ -1,0 +1,1 @@
+Achei o conteúdo de GIT não está detalhado o suficiente, em vista que é um curso para pessoas iniciantes.
